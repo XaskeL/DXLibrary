@@ -1,0 +1,12 @@
+<meta>
+	<info author="XaskeL (UI), sbx320 (classlib)" description="UI" />
+	
+	<script type="client" cache="false" src="Scripts/Client/Utils/classlib.lua" />
+	<script type="client" cache="false" src="Scripts/Client/Utils/utils.lua" />
+	
+	<script type="client" cache="false" src="Scripts/Client/UILib/IDxObject.lua" />
+	<script type="client" cache="false" src="Scripts/Client/UILib/DxUIWorkArea.lua" />
+	<script type="client" cache="false" src="Scripts/Client/UILib/Objects/Rectangle.lua" />
+	
+	<script type="client" cache="false" src="Scripts/Client/Client.lua" />
+</meta>
